@@ -26,12 +26,19 @@ dependencies:
   cupertino_icons: ^1.0.0
   dio: ^3.0.10
   flutter_dotenv: ^2.1.0
+  flutter_rating_bar: ^3.0.1+1
+  font_awesome_flutter: ^8.10.0
+  get_it: ^5.0.1
+  intl: ^0.16.1
+  google_fonts: ^1.1.1
+  lazy_load_scrollview: ^1.1.0
+  rxdart: ^0.24.1
+  sliver_fab: ^1.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  get: ^3.15.0
-  lazy_load_scrollview: ^1.1.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

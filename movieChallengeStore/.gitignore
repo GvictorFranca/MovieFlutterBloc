@@ -44,12 +44,3 @@ app.*.map.json
 
 
 .env
-/lib/home/models/movies.dart
-/lib/home/view/home_page.dart
-/lib/home/view/home_page.dart
-/lib/home/controllers/home_controller.dart
-/lib/home/helpers/movies_exception.dart
-/lib/home/models/movie_model.dart
-/lib/home/models/pagination_filter.dart
-/lib/home/home_bindings.dart
-/lib/application/bindings/application_bindings.dart
