@@ -1,4 +1,4 @@
-# movieChallengeStore
+# MovieChallengeStore
 
 A new Flutter project.
 
